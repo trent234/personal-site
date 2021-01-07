@@ -1,0 +1,5 @@
+docker run --name trent-tw-nginx-instance \
+  --publish 80:80 \
+  --detach=true \
+  trent-tw-nginx
+

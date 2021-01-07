@@ -1,0 +1,2 @@
+docker stop trent-tw-nginx-instance
+docker rm trent-tw-nginx-instance
